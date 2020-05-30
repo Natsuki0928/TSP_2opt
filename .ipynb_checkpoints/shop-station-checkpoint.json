@@ -1,0 +1,74 @@
+{
+  "渋谷店": {
+    "最寄駅": "渋谷",
+    "url": "https://naporitanpancho.com/shibuya"
+  },
+  "池袋店": {
+    "最寄駅": "池袋",
+    "url": "https://naporitanpancho.com/ikebukuro"
+  },
+  "吉祥寺店": {
+    "最寄駅": "吉祥寺",
+    "url": "https://naporitanpancho.com/kichijouji"
+  },
+  "秋葉原店": {
+    "最寄駅": "秋葉原",
+    "url": "https://naporitanpancho.com/akihabara"
+  },
+  "新橋店": {
+    "最寄駅": "新橋",
+    "url": "https://naporitanpancho.com/shinbashi"
+  },
+  "大宮店": {
+    "最寄駅": "大宮",
+    "url": "https://naporitanpancho.com/omiya"
+  },
+  "渋谷南店": {
+    "最寄駅": "渋谷",
+    "url": "https://naporitanpancho.com/shibuyaminami"
+  },
+  "秋葉原昭和通り口店": {
+    "最寄駅": "秋葉原",
+    "url": "https://naporitanpancho.com/akihabara2"
+  },
+  "新宿店": {
+    "最寄駅": "新宿",
+    "url": "https://naporitanpancho.com/shinjuku"
+  },
+  "御徒町店": {
+    "最寄駅": "御徒町",
+    "url": "https://naporitanpancho.com/okachimachi"
+  },
+  "プレナ幕張店": {
+    "最寄駅": "海浜幕張",
+    "url": "https://naporitanpancho.com/makuhari"
+  },
+  "蒲田店": {
+    "最寄駅": "蒲田",
+    "url": "https://naporitanpancho.com/kamata"
+  },
+  "千葉栄町店": {
+    "最寄駅": "千葉",
+    "url": "https://naporitanpancho.com/chibasakae"
+  },
+  "柏店": {
+    "最寄駅": "柏",
+    "url": "https://naporitanpancho.com/kashiwa"
+  },
+  "246裾野店": {
+    "最寄駅": "長泉なめり",
+    "url": "https://naporitanpancho.com/susono"
+  },
+  "富士店": {
+    "最寄駅": "ジヤトコ前",
+    "url": "https://naporitanpancho.com/fuji"
+  },
+  "平塚店": {
+    "最寄駅": "平塚",
+    "url": "https://naporitanpancho.com/hiratsuka"
+  },
+  "相模原店": {
+    "最寄駅": "町田",
+    "url": "https://naporitanpancho.com/sagamihara"
+  }
+}
