@@ -3,6 +3,10 @@ import math
 import numpy as np
 import matplotlib.pyplot as plt
 
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
+
 """
 ## 巡回セールスマン問題（traveling salesman problem)
 TSPは、都市の集合と各2都市間の移動距離が与えられたとき、
